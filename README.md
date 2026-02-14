@@ -2,6 +2,8 @@
 
 > A terminal based pomodoro timer
 
+![Example of pomodo-rs](./assets/example.png)
+
 ## Prerequisites
 
 Up-to-date rust and cargo installation
